@@ -1,51 +1,67 @@
-﻿<p>Anastasia  Kutsenko</p>*<p>AО Фармасинтез- Норд </p>*
+﻿# Kutsenko Anastasia  
+ 
+![Kutsenko (2)](https://user-images.githubusercontent.com/86299064/130675047-ef7c3738-6803-4ae1-a45b-ed14fdf19aad.jpg)
 
 
-Phone: +7 (905) 281 81 23
-
-#Country: Российская Федерация#
-City: Saint Petersburg
-*Email: anastasia.kutsenkov@gmail.com*
-
-#<p>**Профессиональное резюме**</p><p>Умение </p>#
-#**Трудовая биография**# 
-
-#<p>**Производственная практика** </p><p>2014-05-22 – 2014-06-22</p> <p>**МБЦ "Генериум"**</p><p>Прохождение производственной практики- знакомство с отделами:</p><p>` `масштабирования, </p><p>` `биоаналитического анализа</p><p>` `производством</p><p>Написание отчёта и защита его.</p><p> </p>|п. Вольгинский , www.ibcgenerium.ru#
-
-|<p>**Производственная практика** </p><p>2015-02-01 – 2015-03-01</p>|<p>**«Балтика», часть Carlsberg Group**</p><p>Пивоваренная компания «Балтика», часть Carlsberg Group"</p><p></p><p>Продукты питания</p><p>• Безалкогольные напитки (производство)</p><p>• Пиво (производство)</p><p>• Безалкогольные напитки (продвижение, оптовая торговля)</p><p>производственная практика</p><p>Прохождение производственной практики. Написание отчета и его защита</p>|Санкт-Петербург, www.baltika.ru|
-|<p>**лаборант-исследователь в области биологии** </p><p>2014-10-01 – 2015-03-01</p>|<p>**ООО НИЛ ''Диагностика''**</p><p>Работа в отделе иммуноферментного анализа.  Пробоподготовка образцов для анализа в ИФА. Постановка ИФА. Составление протоколов с результатами анализа.</p>|Санкт-Петербург, www.explana.ru|
-|<p>**лаборант** </p><p>2013-11-01 – 2015-05-28</p>|<p>**Научно- исследовательский центр экологической безопасности**</p><p>Написание дипломной работы на тему: "Влияние нонилфенола на терригенные виды микромицетов". Приготовление растворов, работа с культурой грибов- культивирование, выполнение пассажей.</p>|Санкт-Петербург, www.ecosafety-spb.ru/|
-|<p>**Контролёр (ОКК)** </p><p>2015-07-22 – 2016-05-16</p>|<p>**БИОКАД, фармацевтическая компания**</p><p>Контролёр (ОКК)</p><p>Производственный мониторинг  и аттестация персонала,</p><p>Контроль  производственных помещений, </p><p>Проведение входного контроля сырья и материалов. </p><p>Отбор проб воды и сжатых газов,</p><p>Создание и ведение сопроводительной производственной документации. Архивное хранение образцов промежуточной и готовой продукции.</p><p>Разработка нормативной документации (СОП). Знание стандартов GMP</p>|Санкт-Петербург, www.biocad.ru|
-|<p>**Инженер-исследователь** </p><p>2016-06-05 – 2018-06-20</p>|<p>**Алкор Био**</p><p>Разработка диагностичеких тест -систем для ИФА. Оценка воспроизводимости, стабильности компонентов системы.Приготовление растворов.</p><p>Адаптация наборов для иммуноферментного анализа на  анализаторе "Alisei"</p><p>Оформление отчетной докуметации</p><p>Написание, согласование технологических инструкций. Подготовка документов для регистрации</p>|Санкт-Петербург, www.alkorbiogroup.ru|
-|<p>**младший научный сотрудник** </p><p>2018-07-05 – 2018-11-16</p>|<p>**Герофарм**</p><p>Младший научный сотрудник</p><p>Разработка методов in vitro- ИФА, приготовление растворов. Анализ полученных данных.Валидация метода, оценка воспроизводимости,  стабильности компонентов системы и осуществление трансфера на производство. Оформление отчетной докуметации, ведение документов.</p>|Санкт-Петербург, , www.geropharm.ru|
-|<p>**Инженер-исследователь** </p><p>2018-11-16 – 2020-11-16</p>|<p>**Алкор Био**</p><p>Инженер-исследователь</p><p>Разработка клинических тест-систем (инфекционных наборов, кач. система анализа) на основе магнитных частиц, получение воспроизводимых специфических конъюгатов с меткой детекции анализа, получение воспроизводимых специфических конъюгатов с биотином, получение воспроизводимых конъюгатов со стрептавидином, приготовление буферных растворов. Очистка конъюгатов, оценка работоспособности, стабильности. Оценка стабильности компонентов системы. Адаптация ИХЛА  на автоматизированном анализаторе. Работа с анализатором. Анализ полученных данных, написание отчетов, изучение научной литературы, подготовка документов для регистрации. Ведение внутренних документов. Написание методик получения специфических конъюгатов, обучение персонала. Подготовка документов для трансфера на производство.</p>|Санкт-Петербург, www.alkorbiogroup.ru|
-|<p>**младший научный сотрудник** </p><p>2020-11-17 – </p>|<p>**АО Фармасинтез- Норд** </p><p>Младший научный сотрудник</p><p>Разработка методик контроля качества выпускаемой продукции методом ИФА. Постановка анализов. Написание методик испытаний, отчетов, ведение протоколов испытаний. Написание инструкции эксплуатации оборудования. Заказ сырья и материалов, работа в программе 1С.</p>|Санкт-Петербург, https://pharmasyntez.com|
+City|Saint Petersburg
+| :--|:--
+Nationaly|Russian
+Date of birth |07-05-1992
+Gender |Fame
+Phone number|+79052818123
+Email|anastasia.kutsenkov@gmail.com
 
 
+## Education
 
-#**Образование**#
-
-|<p></p><p>2010-09-01 – 2015-06-22</p>|<p>**Санкт -Петербургская государственная химико-фармацевтическая ададемия**</p><p>ФПТЛ, Биотехнология</p>|Санкт-Петербург|
-
-
-
-
-|**Курсы**|
-
-2016-11-10 – 2016-11-17 Методы генной  инженерии. Базовый практический курс, СПБГУ
-
-2016-07-01 – 2016-08-01 Работа на анализаторе "Alisei", Aлкор Био
+ 
+2010.09.01 – 2015.06.22|Saint-Petersburg State Chemical Pharmaceutical University
+ :-: | :-:
+Faculty of Biotechnology of the Chemical and Pharmaceutical University|<p>Master’s degree</p><p>Major – Biotechnology</p>
 
 
-
-**Языки**
-
-English: A2/B1
-
-Русский: C1|
+## Professional and Research experience
 
 
+|<p>Junior Researcher</p><p>2020-11-17 –current</p>|<p>JSC Pharmasybtez-Nord, https://pharmasyntez.com/en/about/structure/spb</p><p>Development of methods for quality control of manufactured products by the ELISA method. Validation and verification. Preparation of analyzes. Writing test methods, reports, keeping test reports. Writing equipment operating instructions. Ordering raw materials and materials, work in the 1C program.</p>|Saint-Petersburg|
+| :-:|:-:| :-:|
+|<p>Еngineer researcher</p><p>2018-11-16 – 2020-11-16</p>|<p>Alcor Bio Group, www.alkorbiogroup.ru</p><p>Development of clinical test systems (infectious kits, quality assay system) based on magnetic particles, obtaining reproducible specific conjugates with a detection tag, obtaining reproducible specific conjugates with biotin, obtaining reproducible conjugates with streptavidin, preparing buffer solutions. Purification of conjugates, assessment of performance, stability. Assessment of the stability of system components. CLIA  adaptation on an automated analyzer. Working with the analyzer. Analysis of the received data, writing reports, studying scientific literature, preparing documents for registration. Maintaining internal documents. Writing methods for obtaining specific conjugates, staff training. Preparation of documents for transfer to production.</p>|Saint-Petersburg|
+|<p>Junior Researcher</p><p>2018-07-05 – 2018-11-14</p>|<p>Pharm Holding, Geropharm, www.geropharm.ru</p><p>Junior Researcher in departmen of nonclinical researcher.Development of in vitro methods - ELISA, preparation of solutions. Analysis of the obtained data, validation of the method, assessment of reproducibility, stability of system components and transfer to production. Registration of reporting documentation, document management</p>|Saint-Petersburg|
+|<p>Еngineer researcher</p><p>2016-06-05 – 2018-07-04</p>|<p>Alcor Bio Group, www.alkorbiogroup.ru</p><p>Development of diagnostic test systems for ELISA. Evaluation of reproducibility, stability of system components. Preparation of solutions.Adaptation of kits for enzyme immunoassay on the analyzer "Alisei" .Registration of reporting documentation. Writing, approval of technological instructions. Validation and verification of ELISA. Preparation of documents for registration.</p>|Saint-Petersburg|
+|<p>Сontroller of the quality control department</p><p>2015-06-22 – 2016-05-16</p>|Biocad, www.biocad.ru</p><p>Production monitoring and personnel certification,control of production premises.Carrying out incoming control of raw materials and materials,sampling of water and compressed gases.Creation and maintenance of accompanying production documentation. Archival storage of samples of intermediate and finished products. Development of regulatory documents (SOP). Knowledge of GMP standards</p><p></p>|Saint- Petersburg|
+|<p>Laboratory assistant</p><p>2013-11-04 – 2015-05-20</p>|<p>Institution of Russian Academy of Sciences Saint-Petersburg Scientific-Research Centre for Ecological Safety RAS, www.ecosafety-spb.ru</p><p>Writing a thesis on the topic: "Influence of nonylphenol on terrigenous species of micromycetes". Preparation of solutions, work with the culture of mushrooms - cultivation, making passages.</p>|Saint-Petersburg|
+|<p>Research assistant in biology</p><p>2014-10-01 – 2015-03-15</p>|<p>Explana, https://www.explana.ru</p><p></p><p>Work in the department of enzyme immunoassay. Sample preparation for analysis in ELISA. Setting of ELISA. Drawing up protocols with the analysis results.</p><p></p>|Saint Petersburg|
+|Internships 2015-02-01 – 2015-03-01|<p>Baltika part of Carlsberg Group, www.baltika.ru</p><p>Passage of  manufacturing practice in the department of development and production. Report writing and protection.</p>|Saint-Petersburg|
+|<p>Internships </p><p>2014-05-20 – 2016-06-20</p>|<p>Generium, www.ibcgenerium.ru</p><p>Passage of  manufacturing practice in the department of development of biotechnological processes. Report writing and protection.</p>|Moscow|
 
-<p>**Профессиональные навыки**</p><p>Умение работать со следующими методами:</p><p>Иммуноферментный анализ,</p><p>ТСХ (тонкослойная хроматография)  </p><p>Титриметрический анализ (титрование)  </p><p>ИХЛА  </p><p>Вестерн-Блоттинг  </p><p>Гель- фильтрация  </p><p>Диализ  П</p><p>ЦР-метод  </p><p>Работа с рН метром  </p><p>Работа со спектрофотометром  </p><p>Знание стандартов GMP</p>
-<p>**Обо мне**  </p><p>Умение работать в команде .Организаторские навыки , способность работать  с большим объемом информации  Грамотная речь.Активная жизненная позиция.</p><p>Принимала активное участие в общественной и научной  жизни академии. (участие в IV Всероссийской Студенческой фармацевтической олимпиаде, V молодежной научной конференции «Молодая фармация-потенциал будущего», VI молодежном  экологическом конгрессе «Северная Пальмира»)</p>
+## Research skills
+- *ELISA*
+- *CLIA*
+- *PCR*
+- *Western blotting*
+- *Immunoblotting*
+- *Protein purification*
+ - *GMP*
 
+## Qualifications
+|<p>2016-11-01 -</p>2016-11-08</p>|Methods of genetic engineering. Basic practical course, Saint-Petersburg State University|
+| :-: | :-: |
+|<p>2016-07-01 –</p><p> 2016-08-01</p>|Working on the analyzer "Alisei", Alcor Bio Group|
+
+
+## Languages
+- *Russian – native*
+- *English –B1 in proccess*
+
+
+## Interests & extra information
+- *Music*
+- *Films* 
+- *Theather*
+- *Travalling*
+
+## **About me**
+*Ability to work as part of the team*. Organizational skills, the ability to work with a large amount of information. Competent speech. Active life position.I took an active part in the social and scientific life of the Academy. (participation in the IV All-Russian Student Pharmaceutical Olympiad, V Youth Scientific Conference "Young Pharmacy-Potential of the Future", VI Youth Ecological Congress "Northern Palmyra").I work as a Junior Researcher . I think that my actual job will lead me to stagnation some day or other. I really need in activities where I can develop during my life. 
+## **I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Junior QA Engineer**
+
+----
